@@ -3,3 +3,6 @@ Hello!
 Here are sasmples of code, to use in PLC.
 
 CM: control modules for handling PLC inputs and outputs.
+
+STD: standart blocks for using in other modules
+USR: modified STD if needed
